@@ -1,0 +1,25 @@
+{
+  "name": "laravel-ziggy-client",
+  "version": "0.1.0",
+  "description": "Alternative client library for the Laravel Ziggy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algm/laravel-ziggy-client.git"
+  },
+  "keywords": [
+    "library",
+    "ziggy",
+    "router",
+    "laravel"
+  ],
+  "author": "algm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algm/laravel-ziggy-client/issues"
+  },
+  "homepage": "https://github.com/algm/laravel-ziggy-client#readme"
+}
